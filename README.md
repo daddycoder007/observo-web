@@ -1,1 +1,1 @@
-Obvservo |  log monitoring - https://github.com/daddycoder007/Observo
+Obvservo | log monitoring in 5 mins - https://github.com/daddycoder007/Observo
